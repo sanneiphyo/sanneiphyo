@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sann Ei Phyo A passionate developer from Myanmar
+Hi 👋, I'm Sann Ei Phyo.A passionate developer from Myanmar
 
 
 # 💻 Tech Stack:
