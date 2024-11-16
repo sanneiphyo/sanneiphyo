@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate developer from Yangon,Myanmar
+I am passionate developer from Yangon,Myanmar..
 
 
 ## 🌐 Socials:
